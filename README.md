@@ -1,2 +1,2 @@
-# CRUD-APP-
+# CRUD-APP
 CRUD app operation in PHP
